@@ -1,0 +1,88 @@
+This page will be written again with more detail. Sadly, Github just swallowed the previous effort (1 hours work).
+
+ 
+To avoid confusion and potential clashes with the chain, we are now:
+
+– dimecoindirtiest (as opposed to dimecoindirty). Try starting a daemon with that name.
+
+– Acronym is now DIRTY (as opposed to DIRT)
+
+– Addresses begin with a d (as opposed to a 7)
+
+ 
+dimecoindirtiest
+The non-scam alternative to dimecoin
+
+DIRTY is cloned from Hirocoin
+
+There are about 15 billion DIRTY to mine oiver 20 years, and hardly any for the 20 years after that.
+
+ 
+dimecoindirtiest.conf
+
+username=
+password=
+daemon=1
+rpcallowip=127.0.0.1
+rpcport=6523
+port=6524
+addnode=107.170.156.17
+addnode 198.245.50.213
+addnode 104.236.73.161
+addnode=198.245.50.213
+addnode=24.191.33.43
+addnode=46.101.189.147
+addnode=46.254.14.245
+addnode=188.180.62.185
+addnode=37.187.99.136
+addnode=miningalts.com
+addnode=52.8.154.220
+addnode=192.169.6.108
+addnode=192.169.6.61
+addnode=192.169.6.67
+addnode=192.169.6.68
+addnode=167.160.36.14
+addnode=173.254.236.132
+addnode=173.254.235.38
+addnode=173.254.236.138
+
+
+Block time is 2 mins 
+KGW retargets every block
+Reward is 10,000 coins per block 
+Halving every 750,000 blocks. 
+-Therefore, 5,00, 2,500, 1,250, 625, 312.5 
+It will take about 25 years to mine 14 billion.
+
+
+ 
+Dimecoindirtiest is a spoof of dimecoin.
+
+We copied a number of their tactics. However, the point of departure is we are not about to dump a premine. All of premine is for charity and the remaining is for the people.
+
+Jornalists from the altcoin world are encouraged to contact us. Apart from some amusing stories that are really only amusing due to the blatant cheek of the dimecoin mafia, the coin is meant to achieve good ends.
+
+Charity is real the goal of the coin. An independent trustworthy source is necessary to administer the process. We also need publicity to ensure that the charitable donation (probably 6% of coin count) is worth something.
+
+
+Download QTs
+
+Mac Wallet
+https://sourceforge.net/p/dimecoindirtiest-mac/
+
+Windows
+https://sourceforge.net/p/dimecoindirty/
+
+Windows (black design)
+https://sourceforge.net/p/dimecoindirtiest-win-black/
+
+
+To compile daemon (using Ubuntu 32 or 64)
+
+$ make -f makefile.unix "USE_UPNP=-"
+
+
+To compile wallet in Linux
+
+$ qmake -qt=qt4 "USE_UPNP=-"
+$ make
