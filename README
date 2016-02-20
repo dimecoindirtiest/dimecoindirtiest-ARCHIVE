@@ -1,11 +1,14 @@
 dimecoindirtiest
-The non-scam alternative to dimecoin
+The non-scam alternative to dimecoin that became a scam.
 
 DIRTY is cloned from Hirocoin
 
-There are about 15 billion DIRTY to mine oiver 20 years, and hardly any for the 20 years after that.
+There are about 15 billion DIRTY officially. However, the developer of sooncoin and his friends decided to make sidechains on it. Total coin count is impossible to tell. It could be 500 billion for all I know.
 
- 
+But I leave it as reminder. Do not mine it or buy it. You are wasting your time.
+
+With that said:
+
 dimecoindirtiest.conf
 
 username=
@@ -17,20 +20,3 @@ port=6524
 
 
 Block time is 2 mins 
-KGW retargets every block
-Reward is 10,000 coins per block 
-Halving every 750,000 blocks. 
--Therefore, 5,00, 2,500, 1,250, 625, 312.5 
-It will take about 25 years to mine 14 billion.
- 
-Dimecoindirtiest is a spoof of dimecoin.
-
-To compile daemon (using Ubuntu 32 or 64)
-
-$ make -f makefile.unix "USE_UPNP=-"
-
-
-To compile wallet in Linux
-
-$ qmake -qt=qt4 "USE_UPNP=-"
-$ make
