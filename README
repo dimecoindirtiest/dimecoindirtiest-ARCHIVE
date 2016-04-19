@@ -5,7 +5,7 @@ DIRTY is cloned from Hirocoin
 
 X11
 
-It got turned over by MFTW. Thanks, you made a fortune. 
+It got turned over by MFTW. Thanks, you made a fortune. And managed to cut connections from the 30s to two!!
 
 dimecoindirtiest.conf
 
@@ -15,6 +15,10 @@ daemon=1
 rpcallowip=127.0.0.1
 rpcport=6523
 port=6524
+addnode=198.245.50.213
+addnode=82.46.79.119
+
+The 2 nodes are from Mineforthewin.com and Miningalts.com (l-l-l--doge et al)
 
 
 Block time is 2 mins
