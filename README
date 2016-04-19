@@ -3,11 +3,9 @@ The non-scam alternative to dimecoin that became a scam.
 
 DIRTY is cloned from Hirocoin
 
-There are about 15 billion DIRTY officially. However, the developer of sooncoin and his friends decided to make sidechains on it. Total coin count is impossible to tell. It could be 500 billion for all I know.
+X11
 
-But I leave it as reminder. Do not mine it or buy it. You are wasting your time.
-
-With that said:
+It got turned over by MFTW. Thanks, you made a fortune. 
 
 dimecoindirtiest.conf
 
@@ -19,4 +17,8 @@ rpcport=6523
 port=6524
 
 
-Block time is 2 mins 
+Block time is 2 mins
+
+[https://www.dropbox.com/s/x30duzxwlzztyps/dimecoindirtiest-win.zip?dl=0](Link URL)
+
+[https://www.dropbox.com/s/bsf1fs5o04ury43/dimecoindirtiest-Qt-Mac.zip?dl=0](Link URL)
