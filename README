@@ -5,9 +5,11 @@ https://bitbucket.org/dimecoin/dirt/overview
 
 DIRTY is cloned from Hirocoin
 
-X11
+X11, halves at 750,000 blocks, block time is 2 mins, reward is 10,000 coins a block
 
-It got turned over by MFTW. Thanks, you made a fortune. And managed to cut connections from the 30s to two!!
+It got turned over by MFTW. Thanks, you made a fortune. And managed to cut connections from the 30s to two!! 
+
+(I just spotted the below to add)
 
 dimecoindirtiest.conf
 
@@ -15,6 +17,7 @@ username=
 password=
 daemon=1
 rpcallowip=127.0.0.1
+listen=1
 rpcport=6523
 port=6524
 addnode=198.245.50.213
@@ -27,7 +30,6 @@ addnode=5.9.36.211
 addnode=162.255.117.105
 addnode=dirty.miningalts.com
 
-Block time is 2 mins, 10,000 coins a block
 
 Windows
 
