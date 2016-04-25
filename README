@@ -19,12 +19,18 @@ rpcport=6523
 port=6524
 addnode=198.245.50.213
 addnode=82.46.79.119
-
-The 2 nodes are from Mineforthewin.com and Miningalts.com (l-l-l--doge et al)
-
+addnode=198.245.50.213
+addnode=188.134.72.213
+addnode=104.18.46.196
+addnode=185.116.212.119
+addnode=5.9.36.211
+addnode=162.255.117.105
+addnode=dirty.miningalts.com
 
 Block time is 2 mins, 10,000 coins a block
 
 https://www.dropbox.com/s/x30duzxwlzztyps/dimecoindirtiest-win.zip?dl=0
 
 https://www.dropbox.com/s/bsf1fs5o04ury43/dimecoindirtiest-Qt-Mac.zip?dl=0
+
+Mining can be done at [cryptopia](https://www.cryptopia.co.nz/MineShaft)
