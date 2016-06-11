@@ -16,28 +16,25 @@ dimecoindirtiest.conf
 username=
 password=
 daemon=1
-rpcallowip=127.0.0.1
 listen=1
+rpcallowip=127.0.0.1
 rpcport=6523
 port=6524
+addnode=162.255.117.105
+addnode=188.134.72.213
+addnode=209.188.18.52
+addnode=5.9.36.211
 addnode=198.245.50.213
 addnode=82.46.79.119
-addnode=198.245.50.213
-addnode=188.134.72.213
-addnode=104.18.46.196
-addnode=185.116.212.119
-addnode=5.9.36.211
-addnode=162.255.117.105
-addnode=dirty.miningalts.com
 
 
 Windows
 
-https://www.dropbox.com/s/x30duzxwlzztyps/dimecoindirtiest-win.zip?dl=0
+https://drive.google.com/file/d/0B9hDN1DGGHtXdlJaTlY0c1dHVTQ/view
 
 Mac
 
-https://www.dropbox.com/s/bsf1fs5o04ury43/dimecoindirtiest-Qt-Mac.zip?dl=0
+https://drive.google.com/file/d/0B9hDN1DGGHtXcDNTWWZsUWR6VjA/view
 
 Mining 
 
