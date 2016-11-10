@@ -1195,12 +1195,7 @@ void MapPort(bool)
 static const char *strMainNetDNSSeed[][2] = {
     {"198.245.50.213", "198.245.50.213"},
     {"82.46.79.119", "82.46.79.119"},
-    {"dirty.mineforthewin.com", "dirty.mineforthewin.com"},
-    {"dirty.miningalts.com", "dirty.miningalts.com"}, 
-    {"188.134.72.213", "188.134.72.213"}, 
-    {"5.9.36.211", "5.9.36.211"},
-    {"104.18.46.196", "104.18.46.196"},
-    {"185.116.212.119", "185.116.212.119"},
+    {"miningalts.com:6524", "miningalts.com:6524"},
     {"162.255.117.105", "162.255.117.105"},
     {NULL, NULL}
 };
