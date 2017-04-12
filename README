@@ -8,7 +8,7 @@ X11, halves at 750,000 blocks, block time is 2 mins, reward is 10,000 coins a bl
 
 It got turned over by MFTW. Thanks, you made a fortune. And managed to cut connections from the 30s to two!! 
 
-(I just spotted the below to add)
+**(Updated .conf)**
 
 dimecoindirtiest.conf
 
@@ -19,23 +19,14 @@ listen=1
 rpcallowip=127.0.0.1
 rpcport=6523
 port=6524
-addnode=198.245.50.213:6524
-addnode=104.140.105.42:6524
-addnode=109.169.57.82:6524	
-addnode=82.46.79.119:6524	
-addnode=188.180.62.185:6524	
-addnode=149.56.183.114:6524	
-addnode=104.131.43.67:6524	
-addnode=160.176.173.23:6524	
-addnode=104.206.168.149:6524	
-addnode=84.88.116.74:6524
-addnode=162.255.117.105
-addnode=188.134.72.213
-addnode=209.188.18.52
-addnode=5.9.36.211
 addnode=198.245.50.213
-addnode=82.46.79.119
-addnode=miningalts.com:6524
+addnode=107.170.156.17
+addnode=178.157.251.75
+addnode=84.18.120.152
+addnode=73.9.181.217
+addnode=5.9.36.211
+addnode=188.134.72.213
+addnode=dirty.miningalts.com:6524
 
 Check Cryptoguru for a list of recently seen nodes: http://cryptoguru.tk/NetworkInfo/index.php?Currency=DIRTY
 
